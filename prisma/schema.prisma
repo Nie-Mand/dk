@@ -16,5 +16,4 @@ model Thing {
   when     DateTime?
   at       String?
   priority Int?
-  done     Boolean?
 }
